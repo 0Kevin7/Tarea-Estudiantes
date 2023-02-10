@@ -1,0 +1,8 @@
+C:\Users\USER\Desktop\Metodos y Procedimientos\Metodos y Procedimientos\bin\Debug\Metodos y Procedimientos.exe.config
+C:\Users\USER\Desktop\Metodos y Procedimientos\Metodos y Procedimientos\bin\Debug\Metodos y Procedimientos.exe
+C:\Users\USER\Desktop\Metodos y Procedimientos\Metodos y Procedimientos\bin\Debug\Metodos y Procedimientos.pdb
+C:\Users\USER\Desktop\Metodos y Procedimientos\Metodos y Procedimientos\obj\Debug\Metodos y Procedimientos.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Metodos y Procedimientos\Metodos y Procedimientos\obj\Debug\Metodos y Procedimientos.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Desktop\Metodos y Procedimientos\Metodos y Procedimientos\obj\Debug\Metodos y Procedimientos.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Metodos y Procedimientos\Metodos y Procedimientos\obj\Debug\Metodos y Procedimientos.exe
+C:\Users\USER\Desktop\Metodos y Procedimientos\Metodos y Procedimientos\obj\Debug\Metodos y Procedimientos.pdb
